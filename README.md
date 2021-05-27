@@ -22,6 +22,7 @@ in the section "Общее среднее образование" check the avai
 - 'Человек и мир'.
 
 **The headers and footers of all pages are NOT planned to be tested.  
-Not all topics contained material at the time of testing, so some checks have the status "blocked".**
+Not all topics contained material at the time of testing, so some checks have the status "blocked".  
+_The main bugs were found in the knowledge test._**
 
 > The bugs report is in the file "bugs.pdf"
